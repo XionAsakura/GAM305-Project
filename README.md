@@ -32,6 +32,8 @@ Gameplay systems discussed during brainstorming include:
 
 The team also discussed maintaining a manageable project scope by focusing on polished core mechanics and stable gameplay systems instead of attempting overly complex features that could negatively impact development progress.
 
+The team agreed that creating a traceability matrix and test plan would help us better track functionality, implementation descriptions, current progress, final phases, task assignments, and testing status. The test plan will also help us monitor bugs, issues, and pass/fail results throughout the game development process to ensure features are working as intended. (Alice)
+
 ### Development Schedule and Timeline
 
 #### Module 2
