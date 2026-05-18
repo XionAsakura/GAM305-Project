@@ -124,3 +124,8 @@ The team will conduct at least one scheduled check-in each week to review progre
 ### Task Assignment and Reporting
 
 The team will use GitHub Issues and repository branches to assign and track development tasks. Individual responsibilities will be documented through commit history, branch updates, and weekly progress reports. Team members will provide status updates during scheduled meetings and through Discord communication channels.
+
+-Ruben Rodriguez
+-Grace Provencher
+-David Bryant
+-Alice Iuliano
