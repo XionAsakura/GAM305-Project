@@ -207,7 +207,7 @@ Testing objectives:
 | ------------------------- | -------------------------------------------- | ------- | --------------- | ----- |
 | First-person movement     | Player moves correctly in all directions     | Pass | Ruben           |       |
 | Room navigation           | Player can travel between rooms correctly    | Pending | Grace           |       |
-| Virus AI                  | Enemies patrol and attack correctly          | Pending | Alice           |       |
+| Virus AI                  | Enemies patrol and attack correctly          | Working on it | Alice           |Currently cannot place nav mesh. Working on finding the error|
 | Health pickups            | Health increases properly                    | Pending | David           |       |
 | Ammo pickups              | Ammo increases properly                      | Pending | David           |       |
 | Armor pickups             | Armor increases properly                     | Pending | David           |       |
