@@ -205,14 +205,14 @@ Testing objectives:
 
 | Feature                   | Expected Result                              | Status  | Assigned Tester | Notes |
 | ------------------------- | -------------------------------------------- | ------- | --------------- | ----- |
-| First-person movement     | Player moves correctly in all directions     | Pending | Ruben           |       |
+| First-person movement     | Player moves correctly in all directions     | Pass | Ruben           |       |
 | Room navigation           | Player can travel between rooms correctly    | Pending | Grace           |       |
 | Virus AI                  | Enemies patrol and attack correctly          | Pending | Alice           |       |
 | Health pickups            | Health increases properly                    | Pending | David           |       |
 | Ammo pickups              | Ammo increases properly                      | Pending | David           |       |
 | Armor pickups             | Armor increases properly                     | Pending | David           |       |
-| Jump pads                 | Player launches correctly                    | Pending | Ruben           |       |
-| Teleporters               | Player teleports to intended location        | Pending | Ruben           |       |
+| Jump pads                 | Player launches correctly                    | Pass | Ruben           |       |
+| Teleporters               | Player teleports to intended location        | Pass | Ruben           |       |
 | Virus reproduction system | New enemies spawn correctly                  | Pending | Alice           |       |
 | Final progression         | Player reaches the final objective correctly | Pending | Ruben           |       |
 
@@ -272,3 +272,119 @@ For each bug, changes and solutions will be documented to create a history of ho
 Maintaining bug history will help the team identify recurring issues, monitor completed fixes, and maintain stable progress throughout the project lifecycle.
 
 Alice Iuliano, Ruben Rodriguez, David Bryan, Grace Provencher
+
+
+## Module Four Project Log - Team Reflection
+
+### QA and Testing Process: What Went Well?
+
+The testing process was effective in identifying gameplay and functionality issues early in development. Team members were able to verify core systems including first-person movement, room navigation, pickups, jump pads, and teleporters against the testing plan established in Module Three.
+
+Regular testing sessions helped ensure that newly implemented features functioned as intended before additional systems were added. The use of the traceability matrix and test plan allowed the team to track feature completion and testing progress throughout development. Communication through Discord also helped team members quickly report issues and share testing results.
+
+---
+
+### Bugs: Identifying and Correcting Issues
+
+Most bugs were identified through internal playtesting and feature-specific testing sessions. Team members tested implemented systems against expected functionality listed in the test checklist.
+
+Examples of issues identified included:
+
+- Collision and navigation problems within level geometry
+- Teleporter destination and placement issues
+- Jump pad launch inconsistencies
+- Pickup interaction and trigger detection problems
+- Enemy behavior adjustments during testing
+
+When bugs were identified, they were documented through team communication and GitHub updates. Team members reproduced the issues, isolated the cause, implemented fixes, and then retested the affected systems to verify that the problem had been resolved without introducing additional issues.
+
+---
+
+### What Would We Do Differently?
+
+If the team were to repeat this phase of development, we would begin structured testing earlier and conduct more frequent testing sessions throughout implementation.
+
+Several features were tested after major portions of development were completed. Conducting smaller testing sessions immediately after each feature implementation would have allowed issues to be identified sooner and reduced the amount of rework required later.
+
+The team would also benefit from maintaining a more detailed bug tracking log from the beginning of development to better monitor issue status and resolution history.
+
+---
+
+### Helpful Tools and Techniques
+
+The most successful tools used during development were Discord, GitHub, feature branching, and the QA documentation created during Module Three.
+
+**Discord** provided an efficient platform for communication, progress updates, problem solving, and coordination between team members.
+
+**GitHub** allowed the team to manage source control, maintain project backups, and safely develop features through separate branches before merging changes into the main project.
+
+**Feature branching** helped prevent conflicts between team members while allowing multiple systems to be developed simultaneously.
+
+**The traceability matrix and testing plan** provided a structured approach to monitoring project progress, feature completion, and testing status.
+
+---
+
+### Tools and Techniques That Were Less Helpful
+
+Although all selected tools contributed to development, the team found that maintaining documentation required consistent updates and could become time-consuming during active development periods.
+
+At times, information within testing documents and development progress reports required manual updates after implementation changes. While the documentation remained valuable, maintaining it alongside active development occasionally slowed workflow.
+
+The team also found that informal testing discussions sometimes occurred before updates were recorded in official documentation, creating temporary gaps between development progress and recorded testing status.
+
+---
+
+### Team Approach and Tool Selection
+
+The team's initial analysis of the game design document played a significant role in determining which tools and techniques would be used throughout development.
+
+Because the project involved multiple gameplay systems, environmental mechanics, and team members working on separate tasks, the team recognized the need for strong communication and version control early in development. This led to the selection of Discord for communication and GitHub for repository management.
+
+The complexity of the project also influenced the decision to create a traceability matrix, testing plan, and bug tracking process. These tools helped ensure that planned features remained aligned with project requirements while providing a method for tracking implementation and testing progress.
+
+---
+
+### Alpha Stage Status Assessment
+
+The project has successfully reached the Alpha stage with the majority of planned core gameplay systems implemented and functioning.
+
+Completed Alpha features include:
+
+- First-person player movement
+- Multi-room level layout
+- Virus enemy implementation
+- Pickup systems
+- Jump pads
+- Teleporters
+- Initial environmental design and traversal systems
+- Core gameplay loop functionality
+
+Current development efforts are focused on continued testing, bug fixes, gameplay balancing, and feature refinement.
+
+To prepare for Beta development, the team plans to:
+
+- Continue refining enemy behavior
+- Implement and test the virus reproduction system
+- Improve environmental polish and visual quality
+- Perform additional gameplay balancing
+- Conduct expanded testing sessions
+- Resolve remaining gameplay and collision issues
+
+These objectives remain consistent with the development schedule established during Module Two and position the project to successfully reach Beta milestones.
+
+---
+
+### Alpha Prototype Repository Branch
+
+The Alpha prototype has been prepared using the repository branch:
+
+**FinalAlpha**
+
+---
+
+### Team Members
+
+- Alice Iuliano
+- Ruben Rodriguez
+- David Bryan
+- Grace Provencher
