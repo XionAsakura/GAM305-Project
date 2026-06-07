@@ -389,6 +389,8 @@ The Alpha prototype has been prepared using the repository branch:
 - David Bryan
 - Grace Provencher
 
+---
+
 
 ## Module Five Project Log - Team Reflection
 
