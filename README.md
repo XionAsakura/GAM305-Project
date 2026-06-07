@@ -388,3 +388,62 @@ The Alpha prototype has been prepared using the repository branch:
 - Ruben Rodriguez
 - David Bryan
 - Grace Provencher
+
+
+## Module Five Project Log - Team Reflection
+
+### What Parts of the Plan Went Well in Relation to the Last Stage Evaluation
+
+During the last stage evaluation, we perceived that several important issues from earlier development had been resolved. One of the biggest improvements was with the AI navigation system. Previously, we were having issues with the Nav Mesh, which prevented the enemy from moving properly. After troubleshooting and rebuilding the navigation setup, the enemy was able to patrol the area successfully. This was an important step because enemy movement is a core part of the gameplay experience.
+
+We also made progress with the level layout. The layout became more cohesive and walkable, and each room now feels more connected to the overall game structure. This made the project easier to evaluate because the player can move through the space more naturally, and the rooms feel like they are part of one connected environment rather than separate unfinished areas.
+
+---
+
+### What Parts of the Plan Went Wrong in Relation to the Last Stage Evaluation
+
+Some of the more complicated gameplay functionality took longer than initially expected. For example, the enemy splitting into two when hit by the player is a more advanced feature that still requires additional work and testing. This showed us that certain mechanics may need more development time than originally planned, especially when they depend on other systems being fully functional first.
+
+Another challenge was that not every part of the project was at the same level of completion during the evaluation. Some systems were working and ready to be tested, while others still needed more implementation or polish. This made it harder to evaluate the full Beta experience as one complete build.
+
+---
+
+### How Previous Evaluations Were Integrated Into This Latest Stage
+
+Previous evaluations were integrated by using earlier feedback and technical issues to guide the next stage of development. Instead of only adding new features, we focused on solving problems that affected the core gameplay. The Nav Mesh issue is one example of this because it directly affected whether the enemy could function correctly.
+
+The previous evaluations also helped us better understand what needed to be prioritized. Core systems such as enemy movement, level navigation, room layout, jump pads, teleporters, and overall playability became the main focus. This helped move the project closer to a playable Beta stage.
+
+---
+
+### What We Would Do Differently to Improve Collaboration or Development
+
+To improve the collaboration and development process, we would focus on stronger communication and more consistent follow-ups. Regular check-ins would help the team confirm what has been completed, what still needs work, and whether anyone needs support. This would reduce confusion and make it easier to identify problems earlier in the development process.
+
+We would also make sure tasks are documented more clearly, including who is responsible for each task and when it should be completed. This would help the team stay organized and avoid last-minute uncertainty about which features are complete and which still need attention.
+
+---
+
+### Tools or Techniques That Were Not Helpful
+
+We do not think any tool was completely unhelpful to the success of the project. However, some tools and techniques are only useful if the team uses them consistently. Communication tools, planning documents, and test plans can support development, but they become less effective if they are not updated regularly or followed up on.
+
+The main issue was not necessarily the tools themselves, but the consistency of how they were used. A schedule, task list, or test plan only helps the project if everyone uses it to track progress and communicate updates.
+
+---
+
+### Completed Stage of Development and Project Schedule
+
+The project is currently in the intended Beta stage of development. At this stage, the main systems are beginning to come together, and the project is playable enough to evaluate core gameplay elements. The enemy AI can now patrol, the level layout is more cohesive and walkable, and systems such as the jump pad and teleporter have been developed.
+
+To meet the Final Release deadline, the team should focus on completing unfinished core features first. This includes finalizing more complex mechanics, such as enemy splitting, and making sure all major gameplay systems work together. After that, the focus should shift to QA testing, bug fixing, retesting, and polishing the level, gameplay flow, and player experience.
+
+The final schedule should prioritize stability over adding too many new features. At this stage, it is more important to make sure the current systems work correctly than to expand the scope too much before the Final Release deadline.
+
+---
+### Team Members
+
+- Alice Iuliano
+- Ruben Rodriguez
+- David Bryan
+- Grace Provencher
