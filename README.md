@@ -449,3 +449,60 @@ The final schedule should prioritize stability over adding too many new features
 - Ruben Rodriguez
 - David Bryan
 - Grace Provencher
+
+  ## Module Six Project Log - Team Reflection
+
+### What Parts of the Plan Went Well in Relation to the Last Stage Evaluation
+
+One area that went well during this stage was our ability to improve the overall playability of the project despite development challenges. Building on the previous evaluation, the team focused on creating a more complete gameplay experience rather than continuing to add new features. Health bars were successfully implemented, health pickups were integrated into gameplay, and a small playable level was created to allow testing of the systems that had been completed. We also developed a functional main menu and game over menu, which helped provide a more complete gameplay loop than what existed during the previous stage.
+
+Another positive outcome was the continued refinement of systems that had been causing issues earlier in development. Several gameplay and technical problems were addressed, allowing the project to become more stable and easier to test. While the game remained limited in scope, the systems that were completed worked together more effectively than in previous builds.
+
+---
+
+### What Parts of the Plan Went Wrong in Relation to the Last Stage Evaluation
+
+The biggest challenge during this stage was maintaining development momentum while working with limited participation across the team. As development progressed, much of the implementation work fell to a smaller group of contributors, with Alice Iuliano and Ruben Rodriguez taking on the majority of the remaining development tasks in an effort to assemble a playable final build. This reduced the amount of time available for advanced features, testing, and polish.
+
+Several planned systems also proved more difficult to implement than originally expected. One example was the enemy splitting mechanic, which required additional design, programming, and testing effort that became difficult to prioritize while other gameplay systems still needed attention. We also spent significant time troubleshooting the player health UI to ensure it updated dynamically when health pickups were collected. In addition, camera-related issues required further adjustments before the player experience felt acceptable.
+
+Because of these challenges, some planned functionality was simplified or left unfinished so that development efforts could focus on creating a stable and playable build for the final release.
+
+---
+
+### How Previous Evaluations Were Integrated Into This Latest Stage
+
+Feedback from previous evaluations directly influenced the priorities for this stage of development. Earlier reviews highlighted the importance of creating a cohesive gameplay experience rather than focusing exclusively on adding new mechanics. As a result, development efforts shifted toward improving stability, usability, and player feedback systems.
+
+The work completed on health pickups, health bar functionality, menu systems, and level playability reflected lessons learned from previous evaluations. Earlier concerns regarding gameplay flow, system integration, and overall playability guided decision-making throughout the final development stage. Rather than expanding the project's scope, the focus became making existing systems work together more effectively and ensuring players could experience a functional gameplay loop.
+
+---
+
+### What We Would Do Differently to Improve Collaboration or Development
+
+If we were to repeat this project, we would establish more structured accountability and milestone tracking earlier in development. While communication tools were available, stronger follow-up procedures and clearer expectations regarding task completion would have helped maintain progress throughout the project lifecycle.
+
+We would also prioritize creating a playable vertical slice much earlier in development. Having a stable test build available sooner would have allowed the team to identify integration issues earlier and spend more time refining gameplay systems. Earlier testing of UI functionality, player camera behavior, and enemy mechanics would likely have reduced the amount of troubleshooting required during the final stages of development.
+
+---
+
+### Were There Any Tools or Techniques That Were Not Helpful?
+
+The primary challenge was not the tools themselves but how consistently they were used. GitHub, Discord, and project documentation all provided value throughout development. However, planning documents and task tracking systems are only effective when they are updated regularly and supported by consistent participation from all team members.
+
+As development progressed, documentation occasionally became less reflective of the current state of the project because implementation priorities changed rapidly. More frequent updates to project tracking materials would have helped ensure that development goals, testing status, and feature progress remained aligned throughout the final stages of the project.
+
+---
+
+### Final Release Status
+
+Although not all originally planned features were completed, the team successfully assembled a functional and playable build. The final project includes a playable map, enemy encounters, health systems, health pickups, a dynamically updating health bar, a main menu, and a game over screen. Alice Iuliano and Ruben Rodriguez worked to bring together the completed systems and resolve as many issues as possible within the remaining development time.
+
+While some features such as the enemy splitting system were not completed to the level originally envisioned, significant progress was made toward improving stability, usability, and overall playability. Despite development setbacks and limited participation during the final stages of the project, the final build demonstrates the core gameplay concepts established during planning and represents the team's best effort to deliver a functional game experience.
+
+---
+
+### Team Members
+
+- Alice Iuliano
+- Ruben Rodriguez
